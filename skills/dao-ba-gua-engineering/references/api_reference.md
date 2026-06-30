@@ -1,1 +1,34 @@
-IyBSZWZlcmVuY2UgRG9jdW1lbnRhdGlvbiBmb3IgRGFvIEJhIEd1YSBFbmdpbmVlcmluZw0KDQpUaGlzIGlzIGEgcGxhY2Vob2xkZXIgZm9yIGRldGFpbGVkIHJlZmVyZW5jZSBkb2N1bWVudGF0aW9uLg0KUmVwbGFjZSB3aXRoIGFjdHVhbCByZWZlcmVuY2UgY29udGVudCBvciBkZWxldGUgaWYgbm90IG5lZWRlZC4NCg0KRXhhbXBsZSByZWFsIHJlZmVyZW5jZSBkb2NzIGZyb20gb3RoZXIgc2tpbGxzOg0KLSBwcm9kdWN0LW1hbmFnZW1lbnQvcmVmZXJlbmNlcy9jb21tdW5pY2F0aW9uLm1kIC0gQ29tcHJlaGVuc2l2ZSBndWlkZSBmb3Igc3RhdHVzIHVwZGF0ZXMNCi0gcHJvZHVjdC1tYW5hZ2VtZW50L3JlZmVyZW5jZXMvY29udGV4dF9idWlsZGluZy5tZCAtIERlZXAtZGl2ZSBvbiBnYXRoZXJpbmcgY29udGV4dA0KLSBiaWdxdWVyeS9yZWZlcmVuY2VzLyAtIEFQSSByZWZlcmVuY2VzIGFuZCBxdWVyeSBleGFtcGxlcw0KDQojIyBXaGVuIFJlZmVyZW5jZSBEb2NzIEFyZSBVc2VmdWwNCg0KUmVmZXJlbmNlIGRvY3MgYXJlIGlkZWFsIGZvcjoNCi0gQ29tcHJlaGVuc2l2ZSBBUEkgZG9jdW1lbnRhdGlvbg0KLSBEZXRhaWxlZCB3b3JrZmxvdyBndWlkZXMNCi0gQ29tcGxleCBtdWx0aS1zdGVwIHByb2Nlc3Nlcw0KLSBJbmZvcm1hdGlvbiB0b28gbGVuZ3RoeSBmb3IgbWFpbiBTS0lMTC5tZA0KLSBDb250ZW50IHRoYXQncyBvbmx5IG5lZWRlZCBmb3Igc3BlY2lmaWMgdXNlIGNhc2VzDQoNCiMjIFN0cnVjdHVyZSBTdWdnZXN0aW9ucw0KDQojIyMgQVBJIFJlZmVyZW5jZSBFeGFtcGxlDQotIE92ZXJ2aWV3DQotIEF1dGhlbnRpY2F0aW9uDQotIEVuZHBvaW50cyB3aXRoIGV4YW1wbGVzDQotIEVycm9yIGNvZGVzDQotIFJhdGUgbGltaXRzDQoNCiMjIyBXb3JrZmxvdyBHdWlkZSBFeGFtcGxlDQotIFByZXJlcXVpc2l0ZXMNCi0gU3RlcC1ieS1zdGVwIGluc3RydWN0aW9ucw0KLSBDb21tb24gcGF0dGVybnMNCi0gVHJvdWJsZXNob290aW5nDQotIEJlc3QgcHJhY3RpY2VzDQo=
+# Reference Documentation for Dao Ba Gua Engineering
+
+This is a placeholder for detailed reference documentation.
+Replace with actual reference content or delete if not needed.
+
+Example real reference docs from other skills:
+- product-management/references/communication.md - Comprehensive guide for status updates
+- product-management/references/context_building.md - Deep-dive on gathering context
+- bigquery/references/ - API references and query examples
+
+## When Reference Docs Are Useful
+
+Reference docs are ideal for:
+- Comprehensive API documentation
+- Detailed workflow guides
+- Complex multi-step processes
+- Information too lengthy for main SKILL.md
+- Content that's only needed for specific use cases
+
+## Structure Suggestions
+
+### API Reference Example
+- Overview
+- Authentication
+- Endpoints with examples
+- Error codes
+- Rate limits
+
+### Workflow Guide Example
+- Prerequisites
+- Step-by-step instructions
+- Common patterns
+- Troubleshooting
+- Best practices
