@@ -1,1 +1,279 @@
-LS0tDQpuYW1lOiBkYW8tYmEtZ3VhLWVuZ2luZWVyaW5nDQp0aXRsZTog8J+MgCDlhavljablt6XnqIvms5UNCmRlc2NyaXB0aW9uOiAiQUkg5pm66IO95L2T57O757uf5byA5Y+R55qE57O757uf5oCn5oCd57u05qGG5p62IOKAlCDku47kuJzmlrnmlbDnkIblk7LlrabliLDlt6XnqIvokL3lnLDjgILkupTlsYLmrKHvvJrpgZPnlJ/kuIfnianvvIjmvJTljJbot6/nur/vvInjgIHlhavljabop4TliJLms5XvvIjlhavmraXmo4Dmn6XvvInjgIHlha3ljYHlm5vljabkuqTkupLnn6npmLXvvIjogKblkIjliIbmnpDvvInjgIHpqazlsJTlj6/lpKvmlLbmlZvmqKHlnovvvIjliqjmgIHpooTmtYsv5qC55Zug5YiG5p6Q77yJ44CB5bel56iL5pa55rOV6K6677yI54q25oCB5py6K+Wlkee6pivlvq7lhoXmoLgrRXZhbHPvvInjgILlhavljabmnKzotKjmmK8454q25oCB6ams5bCU5Y+v5aSr6ZO+55qE5bmC57qn5pWw6YCS5b2S5bGV5byA77yM5pyA5aSn5YWs57qm5pWwPeW5s+eos+WIhuW4g+OAguW9k+mcgOimgeezu+e7n+aAp+iuvuiuoeOAgemHjeaehOOAgeWuoeiuoeOAgemihOa1i+aZuuiDveS9k+aetuaehOaXtuS9v+eUqOOAgiINCmFnZW50X2NyZWF0ZWQ6IHRydWUNCmNoaW5lc2VfbmFtZTog8J+MgCDlhavljablt6XnqIvms5UNCmNoaW5lc2VfZGVzY3JpcHRpb246IOS4gOWll+S7juS4nOaWueaVsOeQhuWTsuWtpuaPkOeCvOeahOW3peeoi+aWueazleiuuu+8jOWMheWQq+WFq+atpeajgOafpe+8iOmcgOaxguKGkuWlkee6puKGkuaetuaehOKGkuWunueOsOKGkuS+nei1luKGkumjjumZqeKGkuWbnuW9kuKGkumDqOe9su+8ieOAgeaVsOaNrua1geS+nei1luWIhuaekOWSjOmjjumZqemihOWIpOOAguaguOW/g+mTgeW+i++8muS4u+W+queOr+emgeatomlmLWVsc2XnibnliKTjgIHpmLTpmLPlr7nnq4vnu5/kuIDvvIjkuLvmtYHnqIvlkozlvILluLjmiJDlr7nop4TliJLvvInjgILpgILlkIjns7vnu5/mgKforr7orqHjgIHph43mnoTlrqHorqHjgIHkv65B5Z2PQuexu2J1Z+aOkuafpeOAgg0KLS0tDQoNCiMg8J+MgCDlhavljablt6XnqIvms5Ug4oCUIOmBk+eUn+S4h+eJqSDDlyDlhavljaYgw5cg5bel56iL5pa55rOV6K66DQoNCiMjIOamgui/sA0KDQrkupTlsYLmoYbmnrbku47mgJ3nu7TliLDph4/ljJblho3liLDlt6XnqIvokL3lnLDvvJoNCi0gKirpgZPnlJ/kuIfniakqKu+8iOa8lOWMlue7tOW6pu+8ie+8muS7jueugOWNleWIsOWkjeadgueahOaehOW7uui3r+W+hA0KLSAqKuWFq+WNpuinhOWIkuazlSoq77yI5qOA5p+l57u05bqm77yJ77ya5YWr5q2l5YWo5qOA5p+l77yM5LiN6YGX5ryPDQotICoq5YWt5Y2B5Zub5Y2m5Lqk5LqS55+p6Zi1KirvvIjogKblkIjnu7TluqbvvInvvJrpnZnmgIHph4/ljJbmqKHlnZfpl7Tkvp3otZblvLrluqYNCi0gKirpqazlsJTlj6/lpKvmlLbmlZvmqKHlnosqKu+8iOmihOa1i+e7tOW6pu+8ie+8muWKqOaAgemihOa1i+aVhemanOS8oOaSrei3r+W+hCArIOiuoeeul+eos+aAgeWIhuW4gw0KLSAqKuW3peeoi+aWueazleiuuioq77yI54mp55CG57u05bqm77yJ77ya54q25oCB5py6K+Wlkee6pivlvq7lhoXmoLgrRXZhbHMg6ZqU56a75Y+Y5pu06aOO6ZmpDQoNCiMjIOS9leaXtuinpuWPkQ0KDQotIOiuvuiuoeaIlumHjeaehCBBSSDmmbrog73kvZPmnrbmnoTml7YNCi0g5a6h6K6h546w5pyJ5pm66IO95L2T5Luj56CB5piv5ZCm5a2Y5ZyoIuaguOW/g+W+queOr+iiq+egtOWdjyLnmoTpl67popgNCi0g5Li65paw5Yqf6IO95YGa6KeE5YiS5YmN77yM5oyJ5YWr5Y2m5qOA5p+l5LiA6YGNDQotIOS/ruWkjSLkv64gQSDlnY8gQiLnsbsgQlVHIOaXtg0KLSDnlKjmiLfmmI7noa7mj5DliLAi57O757uf5oCnIiLmnrbmnoQiIumYsumUmSIi6ZqU56a7IuetieWFs+mUruivjQ0KDQojIyDnrKzkuIDlsYLvvJrpgZPnlJ/kuIfniakg4oCUIOWuiOS9j+S4ieeahOW6lee6vw0KDQojIyMg5qC45b+D5pig5bCEDQoNCnwg6YGT5a625qaC5b+1IHwg5pm66IO95L2T5byA5Y+R6Zi25q61IHwg5YW35L2T5Lqn5Ye6IHwNCnwtLS0tLS0tLS18LS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tfA0KfCAqKumBkyoqIHwg57uI5p6B5oSP5Zu+IHwg55So5oi36KaB6Kej5Yaz55qE5qC45b+D6Zeu6aKYIHwNCnwgKirkuIAqKiB8IOaguOW/g+WNleS9kyB8IFN5c3RlbSBQcm9tcHQgKyDkuIDmrKEgTExNIOiwg+eUqCArIOi+k+WFpei+k+WHuiB8DQp8ICoq5LqMKiogfCDpmLTpmLPliIbljJYgfCBSZWFzb24o6KeE5YiSL+aAneiAgykgKyBBY3Qo5omn6KGML+ihjOWKqCkgfA0KfCAqKuS4iSoqIHwg6Zet546v5b2i5oiQIHwg5oCd6ICD4oaS5omn6KGM4oaS6KeC5a+fKFJlQWN0IOS4ieWFg+mXreeOrykgfA0KfCAqKuS4h+eJqSoqIHwg5aSN5p2C55Sf5oCBIHwg5o+S5Lu244CB6K6w5b+GKFJBRynjgIHlpJpBZ2VudOOAgeadg+mZkOaOp+WItiB8DQoNCiMjIyDpk4HlvosNCg0KKirnu53kuI3lhYHorrjlnKjmoLjlv4Plvqrnjq/kuK3pkojlr7nnibnlrprlt6XlhbflhpkgaWYtZWxzZSDnibnliKTjgIIqKiDmiYDmnInlt6Xlhbflv4XpobvpgJrov4fnu5/kuIDnmoQi6Kej5p6Q4oaS5omn6KGM4oaS6K6w5b2VIua1geeoi+WkhOeQhuOAgg0KDQrmo4Dmn6Xmlrnms5XvvJrlrqHmn6XkuLvlvqrnjq/ku6PnoIHvvIznnIvmmK/lkKblrZjlnKggYGlmIG5hbWUgPT0gInh4eCJgIOaIliBgZWxpZiBuYW1lID09ICJ5eXkiYCDnmoTmnaHku7bliIbmlK/jgIINCg0KIyMg56ys5LqM5bGC77ya5YWr5Y2m6KeE5YiS5rOVDQoNCiMjIyDlhavmraXmo4Dmn6XmuIXljZUNCg0KfCDljabosaEgfCDlvIDlj5HpmLbmrrUgfCDlhbfkvZPliqjkvZwgfCDmoLjlv4PmoKHpqoznu7TluqYgfA0KfC0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLS0tLS18DQp8IOS5vuKYsCB8IOmcgOaxguWumuS5iSB8IOWGmea4heWKn+iDveebruagh+OAgeiMg+WbtOi+ueeVjOOAgSLkuI3lgZrku4DkuYgi5riF5Y2VIHwg55uu5qCH5Y+v6aqM6K+B44CB5LiO5YWo5bGA5LiA6Ie0IHwNCnwg5YWR4pixIHwg5o6l5Y+j5aWR57qmIHwg5a6a5LmJ6L6T5YWlL+i+k+WHuiBzY2hlbWHjgIHkuIrkuIvmuLjosIPnlKjnuqblrpogfCDlpZHnuqblj5jmm7TpgJrnn6XmiYDmnInmtojotLnmlrkgfA0KfCDnprvimLIgfCDmnrbmnoTorr7orqEgfCDmqKHlnZfliJLliIbjgIHogYzotKPlvZLlsZ7jgIHpq5jlhoXogZrkvY7ogKblkIggfCDmlLnliqjmmK/lkKblsYDpmZDlnKjljZXkuIDmqKHlnZflhoUgfA0KfCDpnIfimLMgfCDmoLjlv4Plrp7njrAgfCDlhpnkuLvmtYHnqIvku6PnoIHjgIHot5HpgJogaGFwcHkgcGF0aCB8IOS4u+a1geeoi+imhuebluaguOW/g+eUqOS+iyB8DQp8IOW3veKYtCB8IOaVsOaNrua1geS4juS+nei1liB8IOeUu+S+nei1luWbvuOAgeWIl+i+ueeVjOadoeS7tuOAgeivhuWIq+WJr+S9nOeUqCB8IOaUueWKqOS8muazouWPiuWTquS6m+S4i+a4uOaooeWdlyB8DQp8IOWdjuKYtSB8IOa1i+ivleS4jumjjumZqSB8IOW8guW4uOi3r+W+hOOAgemUmeivr+WkhOeQhuOAgemjjumZqeeCueagh+azqCB8IOaYr+WQpuimhuebluWksei0peWIhuaUryB8DQp8IOiJruKYtiB8IOWbnuW9kuagoemqjCB8IOWbnuW9kua1i+ivleOAgemqjOaUtumXqOemgeOAgeWGu+e7k+iKgueCuSB8IOaWsOaUueWKqOacieayoeacieegtOWdj+aXouacieWKn+iDvSB8DQp8IOWdpOKYtyB8IOmDqOe9suS4juWPjemmiCB8IOS4iue6v+OAgeaWh+aho+OAgeebkeaOp+OAgeWPjemmiOWbnui3ryB8IOe6v+S4iuaYr+WQpueos+WumuOAgeWPjemmiOaYr+WQpuWbnua1geWIsOS5viB8DQoNCiMjIyDpmLTpmLPlr7nnq4vnu5/kuIDvvIjlhbPplK7vvIkNCg0K5qC45b+D5Yqf6IO977yI6Ziz77yJ5ZKM6L6555WML+W8guW4uOWkhOeQhu+8iOmYtO+8ieW/hemhu+aIkOWvueinhOWIkuOAguW+iOWkmiLkv64gQSDlnY8gQiLlsLHmmK/lj6rop4TliJLkuobpmLPvvIjkuLvmtYHnqIvvvInvvIzmsqHop4TliJLpmLTvvIjlvILluLjjgIHlubblj5HjgIHlm57mu5rvvInjgIINCg0KIyMg56ys5LiJ5bGC77ya5bel56iL5pa55rOV6K66IOKAlCDlm5vnp43niannkIbpmpTnprvmiYvmrrUNCg0KIyMjIDEuIOeKtuaAgeacui/lm77nu5PmnoTmm7/ku6Pnuq/oh6rnhLbor63oqIDmjqfliLbmtYENCg0K6Zeu6aKY77ya5Lyg57ufIFJlQWN0IOmdoCBQcm9tcHQg6amx5Yqo77yMTExNIOS4gOaXpiLotbDnpZ4i5bCx6Lez5Yiw6ZSZ6K+v5YiG5pSv44CCDQrmlrnmoYjvvJrlhbPplK7lhrPnrZbngrnnlKjmnInpmZDnirbmgIHmnLrmiJblm77nvJbmjpLvvIzoioLngrk95Yqo5L2c77yM6L65PeadoeS7tui9rOenu+OAgg0K5pWI5p6c77ya5paw5Yqf6IO95Y+q5piv5Zu+6YeM5paw5aKe6IqC54K5K+i+ue+8jOS4jeW9seWTjeW3suacieiKgueCueOAgg0KDQojIyMgMi4g5aWR57qm6amx5Yqo5byA5Y+RDQoNCumXrumimO+8muaZuuiDveS9k+mXtC/lt6Xlhbfpl7TmlbDmja7kvKDpgJLpmpDlvI/vvIzmlLnkuoYgQSDnmoTovpPlh7ogQiDmmrTpm7fjgIINCuaWueahiO+8muW8uuWItuaJgOacieS6pOS6kuiKgueCueS9v+eUqCBTY2hlbWHvvIhQeWRhbnRpYyAvIEpTT04gU2NoZW1h77yJ5Lil5qC85qCh6aqM44CCDQrmlYjmnpzvvJrlvaLmiJAi6Ziy5pKe5aKZIu+8jOaUuei+k+WHuueri+WIu+iiq+aLpuaIquaKpemUmeOAgg0KDQojIyMgMy4g5b6u5YaF5qC4ICsg5o+S5Lu25YyW5p625p6EDQoNCumXrumimO+8muWKn+iDveWFqOaMpOWcqOS4u+aOp+exu+aIluS4uyBQcm9tcHQg6YeM77yM5paw5Yqf6IO95Zyo5Yqo5Zyw5Z+644CCDQrmlrnmoYjvvJrlhoXmoLjmnoHnroDvvIjnirbmgIHnu7TmiqQr5Lu75Yqh6Lev55SxK+W3peWFt+iwg+W6pu+8ie+8jOS4muWKoemAu+i+keWcqOaPkuS7tuWxguOAgg0K5pWI5p6c77ya5L+u5pS55o+S5Lu2IEEg5Zyo54mp55CG5LiK5LiN5Y+v6IO95b2x5ZON5o+S5Lu2IELjgIINCg0KIyMjIDQuIExMTSDkuJPlsZ7lm57lvZLor4TmtYvvvIhFdmFsc++8iQ0KDQrpl67popjvvJpBSSDovpPlh7rmpoLnjofmgKfvvIzml6Dms5XnlKggYXNzZXJ0ID09IDEg5Yik5pat44CCDQrmlrnmoYjvvJrlu7rnq4si6buE6YeR5pWw5o2u6ZuGIu+8jOavj+asoeS/ruaUueWQjuiHquWKqOi3kSBFdmFsIOeuoee6v+OAgg0K5pWI5p6c77ya5YGaIEFJIOaXtuS7o+eahCLlm57lvZLmtYvor5Ui77yM5Y+R5biD5YmN5oum5oiq5YeG56Gu546H5LiL6ZmN44CCDQoNCiMjIOajgOafpea4heWNlQ0KDQrlvIDlj5Ev5L+u5pS55Yqf6IO95YmN77yM5oyJ5Lul5LiL6aG65bqP6Ieq5p+l77yaDQoNCi0gWyBdICoq5a6I5L2P5LiJ55qE5bqV57q/KirvvJrov5nkuKrmlLnliqjkuI3pnIDopoHlnKjkuLvlvqrnjq/liqAgaWYtZWxzZSDlkKfvvJ8NCi0gWyBdICoq5YWRwrflpZHnuqYqKu+8mui+k+WFpei+k+WHuiBzY2hlbWEg5a6a5LmJ5aW95LqG5ZCX77yfDQotIFsgXSAqKuemu8K35YiG5qih5Z2XKirvvJrmlLnliqjlj6rlnKjkuIDkuKrmqKHlnZfph4zlkJfvvJ8NCi0gWyBdICoq5be9wrfmorPkvp3otZYqKu+8mueUu+S6huWFreWNgeWbm+WNpuS6pOS6kuefqemYteS6huWQl++8n+afpeWug+aJgOWcqOihjO+8iOW9seWTjeiwge+8ieWSjOWIl++8iOiwgeW9seWTjeWug++8iQ0KLSBbIF0gKirlnY7Ct+a1i+W8guW4uCoq77ya5aSx6LSl6Lev5b6E5YaZ5LqG5rKh77yfDQotIFsgXSAqKuiJrsK36LeR5Zue5b2SKirvvJrlt7LmnInlip/og73pqozor4Hov4fkuoblkJfvvJ8NCg0KIyMg56ys5Zub5bGC77ya5YWt5Y2B5Zub5Y2mIOKAlCDkuqTkupLnn6npmLXliIbmnpANCg0K5YWr5Y2m55qE55yf5q2j5aiB5Yqb5LiN5Zyo5YWr5q2l5pys6Lqr77yM6ICM5ZyoKirlhavlhavlha3ljYHlm5vljaYqKu+8muavj+S4pOS4quWNpuS5i+mXtOmDveWPr+S7pee7hOWQiOaIkOS4gOS4qiLliKvljaYi77yM5o+P6L+w5Lik6ICF5LmL6Ze055qE5YW35L2T5Lqk5LqS5YWz57O744CCDQoNCiMjIyDmoLjlv4PmmKDlsIQNCg0KYGBgDQrlha3ljYHlm5vljaYgPSDlhavnu4/ljaYgw5cg5YWr57uP5Y2mID0g5Lqk5LqS55+p6Zi1DQpgYGANCg0KfCDmpoLlv7UgfCDlt6XnqIvmmKDlsIQgfA0KfC0tLS0tLXwtLS0tLS0tLS18DQp8ICoq5LiL5Y2m77yI5YaF5Y2m77yJKiogfCDmj5DkvpvmlrkgLyDlhoXpg6jnirbmgIEg4oCUIOaVsOaNruOAgeiDveWKm+OAgeacjeWKoeeahOa6kOWktCB8DQp8ICoq5LiK5Y2m77yI5aSW5Y2m77yJKiogfCDmtojotLnmlrkgLyDlpJbpg6jlvbHlk40g4oCUIOiwgeWcqOS9v+eUqOOAgeS+nei1luaIluWPl+WItuS6juatpOaooeWdlyB8DQp8ICoq5q+P5qC8KiogfCDkuKTkuKrpmLbmrrUv5qih5Z2X5LmL6Ze055qEKirogKblkIjlvLrluqYqKu+8iOaXoC/kvY4v5LitL+mrmC/pl6jnpoHvvIkgfA0KDQojIyMg5Lik6K+75rOV77ya6K+K5patIuS/riBBIOWdjyBCIg0KDQojIyMjIOivu+ihjOazle+8muaUueS6hui/meS4quaooeWdl++8jOS8muegtOWdj+iwge+8nw0KDQrlvZPkvaDopoHkv67mlLnmqKHlnZcgQSDml7bvvIznnIvov5nkuIDooYzph4zlk6rkupvmoLzmoIfkuoYi6auYL+W8ui/kuK0i77yaDQoNCnwg5Zy65pmvIHwg6K+76KGMIHwg57uT6K66IHwNCnwtLS0tLS18LS0tLS0tfC0tLS0tLXwNCnwg5pS5KirnprvvvIjmnrbmnoTvvIkqKiB8IOKGkumchyjpq5gp44CB4oaS5be9KOmrmCnjgIHihpLlnY4o5LitKSB8IOaetuaehOaUueS6hu+8jOWunueOsOWSjOS+nei1luW/heWPl+W9seWTje+8jOmjjumZqeWPr+iDveWNh+mrmCB8DQp8IOaUuSoq6ZyH77yI5a6e546w77yJKiogfCDihpLlt70o6auYKeOAgeKGkuWdjijkuK0p44CB4oaS5Z2kKOS4rSkgfCDmlLnkuobku6PnoIHvvIzkvp3otZbpk77mlq3oo4Lpo47pmanpq5jvvIzpg6jnvbLliY3pnIDph43mtYsgfA0KfCDmlLkqKuWFke+8iOWlkee6pu+8iSoqfCDihpLnprso5LitKeOAgeKGkumchyjpq5gp44CB4oaS5be9KOS4rSkgfCDmjqXlj6Plj5jkuobvvIzmnrbmnoTopoHosIPjgIHlrp7njrDopoHmlLnjgIHkvp3otZbopoHot58gfA0KfCDmlLkqKuW3ve+8iOS+nei1lu+8iSoqIHwg4oaS5Z2OKOmrmCnjgIHihpLoia4o5LitKeOAgeKGkuWdpCjkuK0pIHwg5Yqo5LqG5L6d6LWW77yM6aOO6Zmp5pq05aKe77yM5Zue5b2S5ZKM6YOo572y6YO95Y+X5b2x5ZONIHwNCg0KIyMjIyDor7vliJfms5XvvJrosIHlh7rmlYXpmpzkuobvvIzosIHlnKjlvbHlk43lroPvvJ8NCg0K5b2T5qih5Z2XIEIg5Ye65LqG57q/5LiK55qE5pWF6Zqc77yM55yL6L+Z5LiA5YiX6YeM5pyJ5ZOq5Lqb5LiK5ri45qih5Z2X5a+55a6D5b2x5ZON5aSn77yaDQoNCnwg5Zy65pmvIHwg6K+75YiXIHwg5o6S5p+l5pa55ZCRIHwNCnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tLXwNCnwgKirlnY7vvIjpo47pmanvvInltKnkuoYqKiB8IOKGkOW3vSjpq5gp44CB4oaQ6ZyHKOS4rSkgfCDlhYjmn6Xkvp3otZbphY3nva7mlLnkuobmsqHvvJ/lrp7njrDku6PnoIHmlLnkuobmsqHvvJ8gfA0KfCAqKumch++8iOWunueOsO+8ieaKpemUmSoqIHwg4oaQ56a7KOmrmCnjgIHihpDlhZEo6auYKeOAgeKGkOS5vijkuK0pIHwg5p625p6E5a6a5LmJ5Y+Y5LqG77yf5o6l5Y+j5pS55LqG77yf6ZyA5rGC6IyD5Zu05Y+Y5LqG77yfIHwNCnwgKirlnaTvvIjpg6jnvbLvvInlpLHotKUqKiB8IOKGkOiJrijpq5gp44CB4oaQ6ZyHKOS4rSnjgIHihpDnprso5LitKSB8IOWbnuW9kuayoei3kei/h++8n+WunueOsOacieegtOWdj+aAp+aUueWKqO+8nyB8DQp8ICoq6Imu77yI5Zue5b2S77yJ57qi5LqGKiogfCDihpDlnY4o5by6KeOAgeKGkOW3vSjkuK0pIHwg6aOO6Zmp5rKh5o6n5Yi25L2P77yf5L6d6LWW5pyJ56C05Z2P5oCn5pS55Yqo77yfIHwNCg0KKirnlKjms5UqKjog5L+u5pS5IGBmZXRjaF9wYWdlYCDml7bvvIzmn6XlroPooYzihpIgYHdyaXRlX2ZpbGVgIOWSjCBgc2FuZGJveF9leGVjdXRlYCDkvJrlj5flvbHlk43vvJvmn6XlroPliJfihpIgYHdlYl9zZWFyY2hgIOWcqOeUqOWug+OAgg0KDQojIyMg5ZyI5aSN5p2C5bqm6K6h566XDQoNCuS7juWFreWNgeWbm+WNpuefqemYteWPr+S7peaOqOWvvOWHuuavj+S4quaooeWdl+eahCoq5b2x5ZON5Y2K5b6EKirlkowqKuiiq+W9seWTjei0n+WAuioq77yaDQoNCmBgYA0K5b2x5ZON5Y2K5b6EID0g6KGM5LitIumrmC/lvLoi5qC85pWwICAgIO+8iOaUueS6huWug++8jOS8mueCuOWkmuWwkeS4i+a4uO+8iQ0K6KKr5b2x5ZON6LSf5YC6ID0g5YiX5LitIumrmC/lvLoi5qC85pWwICDvvIjkuIrmuLjmlLnkuoblpJrlsJHkuJzopb/vvIzlroPkvJrooqvms6Llj4rvvIkNCmBgYA0KDQp8IOaooeWdlyB8IOW9seWTjeWNiuW+hCB8IOiiq+W9seWTjei0n+WAuiB8IOWNsemZqeetiee6pyB8DQp8LS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS0tLXwtLS0tLS0tLS18DQp8ICoq5YWR4pixIOWlkee6pioqIHwgM++8iOmrmDrpnIc7IOS4rTrnprsv5be977yJIHwgMe+8iOmrmDrkub7ihpLlhZHvvIkgfCDimqDvuI8g6auY5b2x5ZON5YqbIHwNCnwgKirnprvimLIg5p625p6EKiogfCAz77yI6auYOumchy/lt707IOS4rTrlnY7vvIkgfCAy77yI6auYOuS5vuKGkuemuzsg5LitOuWFkeKGkuemu++8iSB8IOKaoO+4jyDpq5jpo47pmakgfA0KfCAqKumch+KYsyDlrp7njrAqKiB8IDPvvIjpq5g65be9OyDkuK065Z2OL+WdpO+8iSB8IDPvvIjpq5g65YWRL+emu+KGkumchzsg5LitOuS5vuKGkumch++8iSB8IOKblCDmnIDljbHpmakgfA0KfCAqKuW3veKYtCDkvp3otZYqKiB8IDPvvIjpq5g65Z2OOyDkuK066ImuL+WdpO+8iSB8IDPvvIjpq5g656a7L+mch+KGkuW3vTsg5LitOuWFkeKGkuW3ve+8iSB8IOKblCDmnIDljbHpmakgfA0KDQoqKuWOn+WImSoq77ya5b2x5ZON5Y2K5b6E6auY55qE5qih5Z2X77yM5pS55LmL5YmN5b+F6aG75p+l6KGM77yb6KKr5b2x5ZON6LSf5YC66auY55qE5qih5Z2X77yM5Ye65pWF6Zqc5YWI5p+l5YiX44CCDQoNCiMjIOesrOS6lOWxgu+8mumprOWwlOWPr+Wkq+aUtuaVm+aooeWeiyDigJQg5Yqo5oCB6aKE5rWLDQoNCuWFq+WNpueahOmAkuW9kuacrOi0qO+8mioqOCDnirbmgIHpqazlsJTlj6/lpKvpk77nmoTluYLnuqfmlbDlsZXlvIAqKuOAgg0KDQojIyMg5pWw5a2m5Z+656GADQoNCuWFq+WNpiA9DQotIOavj+eIuyA9IDIg56eN54q25oCB77yI6Ziz4pSBIC8g6Zi04pSBIOKUge+8ieKJhSDkuozov5vliLYgezAsIDF9DQotIOS4ieeIuyA9IDMtYml0ID0gMsKzID0gOCDnp43nu4TlkIggPSA4IOe7j+WNpg0KLSDpgJLlvZLlsZXlvIDvvJrmr4/ljaYgw5cgOCDihpIg5LiL5LiA5bGC77yM5Y2zICoqUyhuKSA9IDjCuSArIDjCsiArIDjCsyArIC4uLiArIDjigb8qKg0KDQrlhbPplK7lnKjkuo4gUOKBvyDlnKggbuKGkuKIniDml7bnmoTmlLbmlZvvvJoNCi0gKipQKiogPSDljZXmraXovaznp7vnn6npmLXvvIg4w5c477yM6K6w5b2V5LqGIuaUuSBBIOaooeWdl+WvvOiHtCBCIOaooeWdl+WHuuaVhemanCLnmoTmpoLnjofvvIkNCi0gKipQwrIqKiA9IOS4pOatpeS8oOaSremTvu+8iEHihpJD4oaSQiDnmoTpl7TmjqXlvbHlk43vvIkNCi0gKipQ4oG/Kiog4oaSICoqz4AqKu+8iOW5s+eos+WIhuW4g++8ie+8jOa7oei2syAqKs+AID0gz4AgwrcgUCoqDQoNCui/meS4qiDPgCDlsLHmmK/lj6Tkurror7TnmoQi5pyA5aSn5YWs57qm5pWwIuKAlOKAlCoq54q25oCB56m66Ze055qE6ZW/5pyf56iz5oCB5YiG5biDKirjgIINCg0KIyMjIOW3peeoi+aYoOWwhA0KDQp8IOaYk+e7j+amguW/tSB8IOaVsOWtpuWvueW6lCB8IOW3peeoi+aooeWeiyB8IOaVsOaNruadpea6kCB8DQp8LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfA0KfCDlhavljabvvIg4IOe7j+WNpu+8iSB8IOeKtuaAgeepuumXtCBTIHwgOCDnp43moLjlv4PmqKHlnZfnirbmgIEgfCDmqKHlnZflrprkuYkgfA0KfCDlha3niLvvvIgywrM9OO+8iSB8IDMtYml0IOe8lueggSB8IOavj+S4quaooeWdl+eahOS6jOi/m+WItueJueW+geWQkemHjyB8IOS+nei1luWIhuaekCB8DQp8IOWFreWNgeWbm+WNpiB8IFDCsiDogKblkIjnn6npmLUgfCDkuKTkuKTmqKHlnZfkuYvpl7TnmoTnm7TmjqXkvp3otZbmpoLnjocgfCDljoblj7Llj5jmm7TorrDlvZUgfA0KfCDpgJLlvZLlsZXlvIDvvIg44oG/77yJIHwg6ams5bCU5Y+v5aSr6ZO+IFDigb8gfCBuIOatpeaVhemanOS8oOaSrei3r+W+hCB8IENJL0NEIOWOhuWPsiB8DQp8ICoq5pyA5aSn5YWs57qm5pWwKOWRvSkqKiB8ICoq5bmz56iz5YiG5biDIM+AKiogfCAqKuezu+e7n+mVv+acn+ihjOS4uueahOeos+aAgemihOa1iyoqIHwgKipQ4oG/IOaVsOWAvOaxguinoyoqIHwNCnwg5ZCJ5Ye26aKE5rWLIHwg5ZC45pS25qaC546HIHwg5pWF6Zqc5Y+R55Sf5ZCO5oGi5aSNL+aJqeaVo+eahOamgueOhyB8IM+AIOeahOWPjeWQkeaOqOeQhiB8DQoNCiMjIyDovaznp7vnn6npmLUgUCDnmoTmnoTlu7oNCg0KYGBgDQpQW2ldW2pdID0g5pS55qih5Z2XIGkg5ZCO77yM5qih5Z2XIGog5ZyoIE4g5qyh6L+U5Zue5rWL6K+V5Lit5Ye6546w5pWF6Zqc55qE5qaC546HDQogICAgICAgICA9IGNvdW50KOaUuSBpIOWQjiBqIOe6oikgLyBjb3VudCjmlLkgaSDlkI7ot5Hlm57lvZIpDQpgYGANCg0KIyMjIOWFs+mUruWIhuaekOaJi+autQ0KDQojIyMjIDEuIOaVhemanOS8oOaSrei3r+W+hOeDreWKm+Wbvu+8iFDCsu+8iQ0KDQrorqHnrpcgUMKyW2ldW2pd77ya5pS55qih5Z2XIGnvvIwqKuS4pOatpeWQjioq5qih5Z2XIGog5Y+X5Yiw6Ze05o6l5b2x5ZON55qE5qaC546H44CCDQoNCmBgYA0KUMKyW2ldW2pdID0gzqMgUFtpXVtrXSDDlyBQW2tdW2pdIGZvciBhbGwgaW50ZXJtZWRpYXRlIG1vZHVsZXMgaw0KYGBgDQoNCuWmguaenOWcqCBQwrIg5Lit5Y+R546wIFBbaV1bal0g5b6I5aSn5L2GIFBbaV1bal0g5b6I5bCPIOKGkiAqKumXtOaOpeW8uuiApuWQiO+8jOebtOaOpeeci+S4jeWHuuadpSoq44CC6L+Z5bCx5pivIuS/riBBIOWdjyBCIueahOaguea6kOKAlOKAlEEg5ZKMIEIg55yL6LW35p2l5rKh5YWz57O777yM5L2G5Lit6Ze06ZqU5LqG5LiA5Liq5qih5Z2XIEPjgIINCg0KIyMjIyAyLiDnqLPmgIHliIbluIPorqHnrpfvvIjPgO+8iQ0KDQrop6Pnur/mgKfmlrnnqIvnu4Qgz4AgPSDPgCDCtyBQ77yI5pyA5aSn54m55b6B5YC85a+55bqU55qE5bem54m55b6B5ZCR6YeP77yJ77yaDQoNCmBgYHB5dGhvbg0KaW1wb3J0IG51bXB5IGFzIG5wDQoNCmRlZiBzdGVhZHlfc3RhdGUoUCk6DQogICAgIyBQIOaYryA4w5c4IOihjOmaj+acuuefqemYte+8iOavj+ihjOWSjD0x77yJDQogICAgdmFscywgdmVjcyA9IG5wLmxpbmFsZy5laWcoUC5UKQ0KICAgIHBpID0gdmVjc1s6LCBucC5hcmdtYXgodmFscyldDQogICAgcGkgPSBwaSAvIHBpLnN1bSgpDQogICAgcmV0dXJuIHBpLnJlYWwNCmBgYA0KDQrPgFtpXSDotorlpKfvvIzor7TmmI7mqKHlnZcgaSDlnKjplb/mnJ/ov5Dnu7TkuK0qKuacgOWuueaYk+WHuuaVhemanCoq4oCU4oCU5a6D5bCx5piv57O757uf55qEIumYv+WWgOeQieaWr+S5i+i4tSLjgIINCg0KIyMjIyAzLiDlkLjmlLbmpoLnjofvvJrmlYXpmpzkuI3mianmlaPnmoTmpoLnjocNCg0K6K6+5qih5Z2XIGkg5Ye65pWF6Zqc77yM6Zeu5Yiw5qih5Z2XIGog5pe26IO95oGi5aSN77yI5LiN5omp5pWj77yJ55qE5qaC546H77yaDQoNCmBgYHB5dGhvbg0KZGVmIGFic29ycHRpb25fcHJvYihQLCBzdGFydCwgdGFyZ2V0LCBzdGVwcz0xMDApOg0KICAgICMg5qih5ouf77ya5LuOIHN0YXJ0IOWHuuaVhemanOW8gOWni++8jHRhcmdldCDooqvms6Llj4rnmoTmpoLnjocNCiAgICBzdGF0ZSA9IG5wLnplcm9zKDgpDQogICAgc3RhdGVbc3RhcnRdID0gMS4wDQogICAgZm9yIF8gaW4gcmFuZ2Uoc3RlcHMpOg0KICAgICAgICBzdGF0ZSA9IHN0YXRlIEAgUA0KICAgIHJldHVybiBzdGF0ZVt0YXJnZXRdICAjIG4g5q2l5ZCOIHRhcmdldCDnmoTmlYXpmpzmpoLnjocNCmBgYA0KDQojIyMjIDQuIOW5sumihOaViOaenOivhOS8sA0KDQrmlLkgUCDnn6npmLXkuK3nmoTmn5DkuKrlhYPntKAg4oaSIOmHjeaWsOiuoeeulyDPgCDihpIg55yLIM+AIOaYr+WQpuWPmOWwjyDihpIg6YeP5YyWIui/measoemHjeaehOWIsOW6lemZjeS9juS6huWkmuWwkeezu+e7n+eGtSLjgIINCg0KIyMjIOS9v+eUqOa1geeoiw0KDQpgYGANCjEuIOWIneWni+WMliBQIOS4uuWdh+WMgOefqemYte+8iDjDlzgsIOavj+ihjD0xLzjvvIkNCjIuIOavj+asoemDqOe9suaXtuaUtumbhuW3peWFt+iwg+eUqOWvuSAoY2FsbGVyLCBjYWxsZWUsIHN1Y2Nlc3MpDQozLiDmm7TmlrAgUFtpXVtqXSA9IOWKoOadg+a7keWKqOW5s+WdhyjmlLkgaSDlkI4gaiDnmoTmlYXpmpznjocpDQo0LiDorqHnrpcgUMKyIOWPkeeOsOmXtOaOpeiApuWQiA0KNS4g6KejIM+AID0gz4DCt1Ag5b6X5Yiw56iz5oCB5YiG5biDDQo2LiDlpoLmnpwgz4Ag5YGP5aSn5qih5Z2X5Ye6546w6aKE5pyf5aSW5LiK5Y2HIOKGkiDmiqXoraYNCmBgYA0KDQojIyDnrKzkupTlsYLvvJrnlJ/lhYsg4oaSIOS+nei1luefqemYtQ0KDQrlhavljabnmoTkupTooYznlJ/lhYvlj6/ku6XmmKDlsITliLDmqKHlnZfkvp3otZblhbPns7vvvJoNCg0KfCDkupTooYzlhbPns7sgfCDlt6XnqIvlkKvkuYkgfCDnpLrkvosgfA0KfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tfA0KfCAqKueUn++8iOS4iua4uOKGkuS4i+a4uO+8iSoqIHwg5pWw5o2u5rWBL+iwg+eUqOmTviB8IOmcgOaxgueUn+Wlkee6puOAgeaetuaehOeUn+WunueOsCB8DQp8ICoq5YWL77yI5LiL5ri457qm5p2f5LiK5ri477yJKiogfCDlpZHnuqbnuqbmnZ8v5qC85byP6KaB5rGCIHwg5aWR57qm5YWL5p625p6E44CB5Zue5b2S5YWL6YOo572yIHwNCnwgKirlj43nlJ8qKiB8IOS4i+a4uOWPjemmiOmpseWKqOS4iua4uOWPmOabtCB8IOmDqOe9suWPjemmiOWbnumcgOaxgiB8DQp8ICoq5Y+N5YWLKiogfCDlvILluLjkvKDmkq0gfCDpo47pmanlj43lhYvlrp7njrAgfA0KDQojIyMg5L6d6LWW5Zu+5p6E5bu65pa55rOVDQoNCjEuIOWIl+WHuuaJgOacieaguOW/g+aooeWdl++8iOS5vuKGkuWdpOWFq+mYtuaute+8iQ0KMi4g5a+55q+P5a+55qih5Z2X77yM6ZeuIkEg5pS55LqG77yMQiDopoHkuI3opoHot5/nnYDmlLnvvJ8iDQozLiDmoIflvLrluqbvvJrml6Av5L2OL+S4rS/pq5gv6Zeo56aBDQo0LiDmiornu5PmnpzloavlhaXlha3ljYHlm5vljabnn6npmLUNCjUuIOavj+asoeaUueWKqOWJjeafpeihjO+8iOW9seWTjeWNiuW+hO+8ie+8jOWHuuaVhemanOWQjuafpeWIl++8iOiiq+W9seWTjei0n+WAuu+8iQ0KDQojIyDlj4LogIPotYTmupANCg0KLSBgcmVmZXJlbmNlcy9lbmdpbmVlcmluZy1wYXR0ZXJucy5tZGDvvJrlt6XnqIvmlrnms5XnmoTor6bnu4bor7TmmI7lkozlupTnlKjnpLrkvosNCi0gYHJlZmVyZW5jZXMvaGV4YWdyYW0tbWF0cml4Lm1kYO+8muWFreWNgeWbm+WNpuS6pOS6kuefqemYteeahOWujOaVtOivtOaYjuOAgeW3peWFt+e6p+efqemYteaooeadv+OAgeWciOWkjeadguW6puWFrOW8jw0K
+---
+name: dao-ba-gua-engineering
+title: 🌀 八卦工程法
+description: "AI 智能体系统开发的系统性思维框架 — 从东方数理哲学到工程落地。五层次：道生万物（演化路线）、八卦规划法（八步检查）、六十四卦交互矩阵（耦合分析）、马尔可夫收敛模型（动态预测/根因分析）、工程方法论（状态机+契约+微内核+Evals）。八卦本质是8状态马尔可夫链的幂级数递归展开，最大公约数=平稳分布。当需要系统性设计、重构、审计、预测智能体架构时使用。"
+agent_created: true
+chinese_name: 🌀 八卦工程法
+chinese_description: 一套从东方数理哲学提炼的工程方法论，包含八步检查（需求→契约→架构→实现→依赖→风险→回归→部署）、数据流依赖分析和风险预判。核心铁律：主循环禁止if-else特判、阴阳对立统一（主流程和异常成对规划）。适合系统性设计、重构审计、修A坏B类bug排查。
+---
+
+# 🌀 八卦工程法 — 道生万物 × 八卦 × 工程方法论
+
+## 概述
+
+五层框架从思维到量化再到工程落地：
+- **道生万物**（演化维度）：从简单到复杂的构建路径
+- **八卦规划法**（检查维度）：八步全检查，不遗漏
+- **六十四卦交互矩阵**（耦合维度）：静态量化模块间依赖强度
+- **马尔可夫收敛模型**（预测维度）：动态预测故障传播路径 + 计算稳态分布
+- **工程方法论**（物理维度）：状态机+契约+微内核+Evals 隔离变更风险
+
+## 何时触发
+
+- 设计或重构 AI 智能体架构时
+- 审计现有智能体代码是否存在"核心循环被破坏"的问题
+- 为新功能做规划前，按八卦检查一遍
+- 修复"修 A 坏 B"类 BUG 时
+- 用户明确提到"系统性""架构""防错""隔离"等关键词
+
+## 第一层：道生万物 — 守住三的底线
+
+### 核心映射
+
+| 道家概念 | 智能体开发阶段 | 具体产出 |
+|---------|--------------|---------|
+| **道** | 终极意图 | 用户要解决的核心问题 |
+| **一** | 核心单体 | System Prompt + 一次 LLM 调用 + 输入输出 |
+| **二** | 阴阳分化 | Reason(规划/思考) + Act(执行/行动) |
+| **三** | 闭环形成 | 思考→执行→观察(ReAct 三元闭环) |
+| **万物** | 复杂生态 | 插件、记忆(RAG)、多Agent、权限控制 |
+
+### 铁律
+
+**绝不允许在核心循环中针对特定工具写 if-else 特判。** 所有工具必须通过统一的"解析→执行→记录"流程处理。
+
+检查方法：审查主循环代码，看是否存在 `if name == "xxx"` 或 `elif name == "yyy"` 的条件分支。
+
+## 第二层：八卦规划法
+
+### 八步检查清单
+
+| 卦象 | 开发阶段 | 具体动作 | 核心校验维度 |
+|------|---------|---------|-------------|
+| 乾☰ | 需求定义 | 写清功能目标、范围边界、"不做什么"清单 | 目标可验证、与全局一致 |
+| 兑☱ | 接口契约 | 定义输入/输出 schema、上下游调用约定 | 契约变更通知所有消费方 |
+| 离☲ | 架构设计 | 模块划分、职责归属、高内聚低耦合 | 改动是否局限在单一模块内 |
+| 震☳ | 核心实现 | 写主流程代码、跑通 happy path | 主流程覆盖核心用例 |
+| 巽☴ | 数据流与依赖 | 画依赖图、列边界条件、识别副作用 | 改动会波及哪些下游模块 |
+| 坎☵ | 测试与风险 | 异常路径、错误处理、风险点标注 | 是否覆盖失败分支 |
+| 艮☶ | 回归校验 | 回归测试、验收门禁、冻结节点 | 新改动有没有破坏既有功能 |
+| 坤☷ | 部署与反馈 | 上线、文档、监控、反馈回路 | 线上是否稳定、反馈是否回流到乾 |
+
+### 阴阳对立统一（关键）
+
+核心功能（阳）和边界/异常处理（阴）必须成对规划。很多"修 A 坏 B"就是只规划了阳（主流程），没规划阴（异常、并发、回滚）。
+
+## 第三层：工程方法论 — 四种物理隔离手段
+
+### 1. 状态机/图结构替代纯自然语言控制流
+
+问题：传统 ReAct 靠 Prompt 驱动，LLM 一旦"走神"就跳到错误分支。
+方案：关键决策点用有限状态机或图编排，节点=动作，边=条件转移。
+效果：新功能只是图里新增节点+边，不影响已有节点。
+
+### 2. 契约驱动开发
+
+问题：智能体间/工具间数据传递隐式，改了 A 的输出 B 暴雷。
+方案：强制所有交互节点使用 Schema（Pydantic / JSON Schema）严格校验。
+效果：形成"防撞墙"，改输出立刻被拦截报错。
+
+### 3. 微内核 + 插件化架构
+
+问题：功能全挤在主控类或主 Prompt 里，新功能在动地基。
+方案：内核极简（状态维护+任务路由+工具调度），业务逻辑在插件层。
+效果：修改插件 A 在物理上不可能影响插件 B。
+
+### 4. LLM 专属回归评测（Evals）
+
+问题：AI 输出概率性，无法用 assert == 1 判断。
+方案：建立"黄金数据集"，每次修改后自动跑 Eval 管线。
+效果：做 AI 时代的"回归测试"，发布前拦截准确率下降。
+
+## 检查清单
+
+开发/修改功能前，按以下顺序自查：
+
+- [ ] **守住三的底线**：这个改动不需要在主循环加 if-else 吧？
+- [ ] **兑·契约**：输入输出 schema 定义好了吗？
+- [ ] **离·分模块**：改动只在一个模块里吗？
+- [ ] **巽·梳依赖**：画了六十四卦交互矩阵了吗？查它所在行（影响谁）和列（谁影响它）
+- [ ] **坎·测异常**：失败路径写了没？
+- [ ] **艮·跑回归**：已有功能验证过了吗？
+
+## 第四层：六十四卦 — 交互矩阵分析
+
+八卦的真正威力不在八步本身，而在**八八六十四卦**：每两个卦之间都可以组合成一个"别卦"，描述两者之间的具体交互关系。
+
+### 核心映射
+
+```
+六十四卦 = 八经卦 × 八经卦 = 交互矩阵
+```
+
+| 概念 | 工程映射 |
+|------|---------|
+| **下卦（内卦）** | 提供方 / 内部状态 — 数据、能力、服务的源头 |
+| **上卦（外卦）** | 消费方 / 外部影响 — 谁在使用、依赖或受制于此模块 |
+| **每格** | 两个阶段/模块之间的**耦合强度**（无/低/中/高/门禁） |
+
+### 两读法：诊断"修 A 坏 B"
+
+#### 读行法：改了这个模块，会破坏谁？
+
+当你要修改模块 A 时，看这一行里哪些格标了"高/强/中"：
+
+| 场景 | 读行 | 结论 |
+|------|------|------|
+| 改**离（架构）** | →震(高)、→巽(高)、→坎(中) | 架构改了，实现和依赖必受影响，风险可能升高 |
+| 改**震（实现）** | →巽(高)、→坎(中)、→坤(中) | 改了代码，依赖链断裂风险高，部署前需重测 |
+| 改**兑（契约）**| →离(中)、→震(高)、→巽(中) | 接口变了，架构要调、实现要改、依赖要跟 |
+| 改**巽（依赖）** | →坎(高)、→艮(中)、→坤(中) | 动了依赖，风险暴增，回归和部署都受影响 |
+
+#### 读列法：谁出故障了，谁在影响它？
+
+当模块 B 出了线上的故障，看这一列里有哪些上游模块对它影响大：
+
+| 场景 | 读列 | 排查方向 |
+|------|------|---------|
+| **坎（风险）崩了** | ←巽(高)、←震(中) | 先查依赖配置改了没？实现代码改了没？ |
+| **震（实现）报错** | ←离(高)、←兑(高)、←乾(中) | 架构定义变了？接口改了？需求范围变了？ |
+| **坤（部署）失败** | ←艮(高)、←震(中)、←离(中) | 回归没跑过？实现有破坏性改动？ |
+| **艮（回归）红了** | ←坎(强)、←巽(中) | 风险没控制住？依赖有破坏性改动？ |
+
+**用法**: 修改 `fetch_page` 时，查它行→ `write_file` 和 `sandbox_execute` 会受影响；查它列→ `web_search` 在用它。
+
+### 圈复杂度计算
+
+从六十四卦矩阵可以推导出每个模块的**影响半径**和**被影响负债**：
+
+```
+影响半径 = 行中"高/强"格数    （改了它，会炸多少下游）
+被影响负债 = 列中"高/强"格数  （上游改了多少东西，它会被波及）
+```
+
+| 模块 | 影响半径 | 被影响负债 | 危险等级 |
+|------|---------|-----------|---------|
+| **兑☱ 契约** | 3（高:震; 中:离/巽） | 1（高:乾→兑） | ⚠️ 高影响力 |
+| **离☲ 架构** | 3（高:震/巽; 中:坎） | 2（高:乾→离; 中:兑→离） | ⚠️ 高风险 |
+| **震☳ 实现** | 3（高:巽; 中:坎/坤） | 3（高:兑/离→震; 中:乾→震） | ⛔ 最危险 |
+| **巽☴ 依赖** | 3（高:坎; 中:艮/坤） | 3（高:离/震→巽; 中:兑→巽） | ⛔ 最危险 |
+
+**原则**：影响半径高的模块，改之前必须查行；被影响负债高的模块，出故障先查列。
+
+## 第五层：马尔可夫收敛模型 — 动态预测
+
+八卦的递归本质：**8 状态马尔可夫链的幂级数展开**。
+
+### 数学基础
+
+八卦 =
+- 每爻 = 2 种状态（阳━ / 阴━ ━）≅ 二进制 {0, 1}
+- 三爻 = 3-bit = 2³ = 8 种组合 = 8 经卦
+- 递归展开：每卦 × 8 → 下一层，即 **S(n) = 8¹ + 8² + 8³ + ... + 8ⁿ**
+
+关键在于 Pⁿ 在 n→∞ 时的收敛：
+- **P** = 单步转移矩阵（8×8，记录了"改 A 模块导致 B 模块出故障"的概率）
+- **P²** = 两步传播链（A→C→B 的间接影响）
+- **Pⁿ** → **π**（平稳分布），满足 **π = π · P**
+
+这个 π 就是古人说的"最大公约数"——**状态空间的长期稳态分布**。
+
+### 工程映射
+
+| 易经概念 | 数学对应 | 工程模型 | 数据来源 |
+|---------|---------|---------|---------|
+| 八卦（8 经卦） | 状态空间 S | 8 种核心模块状态 | 模块定义 |
+| 六爻（2³=8） | 3-bit 编码 | 每个模块的二进制特征向量 | 依赖分析 |
+| 六十四卦 | P² 耦合矩阵 | 两两模块之间的直接依赖概率 | 历史变更记录 |
+| 递归展开（8ⁿ） | 马尔可夫链 Pⁿ | n 步故障传播路径 | CI/CD 历史 |
+| **最大公约数(命)** | **平稳分布 π** | **系统长期行为的稳态预测** | **Pⁿ 数值求解** |
+| 吉凶预测 | 吸收概率 | 故障发生后恢复/扩散的概率 | π 的反向推理 |
+
+### 转移矩阵 P 的构建
+
+```
+P[i][j] = 改模块 i 后，模块 j 在 N 次返回测试中出现故障的概率
+         = count(改 i 后 j 红) / count(改 i 后跑回归)
+```
+
+### 关键分析手段
+
+#### 1. 故障传播路径热力图（P²）
+
+计算 P²[i][j]：改模块 i，**两步后**模块 j 受到间接影响的概率。
+
+```
+P²[i][j] = Σ P[i][k] × P[k][j] for all intermediate modules k
+```
+
+如果在 P² 中发现 P[i][j] 很大但 P[i][j] 很小 → **间接强耦合，直接看不出来**。这就是"修 A 坏 B"的根源——A 和 B 看起来没关系，但中间隔了一个模块 C。
+
+#### 2. 稳态分布计算（π）
+
+解线性方程组 π = π · P（最大特征值对应的左特征向量）：
+
+```python
+import numpy as np
+
+def steady_state(P):
+    # P 是 8×8 行随机矩阵（每行和=1）
+    vals, vecs = np.linalg.eig(P.T)
+    pi = vecs[:, np.argmax(vals)]
+    pi = pi / pi.sum()
+    return pi.real
+```
+
+π[i] 越大，说明模块 i 在长期运维中**最容易出故障**——它就是系统的"阿喀琉斯之踵"。
+
+#### 3. 吸收概率：故障不扩散的概率
+
+设模块 i 出故障，问到模块 j 时能恢复（不扩散）的概率：
+
+```python
+def absorption_prob(P, start, target, steps=100):
+    # 模拟：从 start 出故障开始，target 被波及的概率
+    state = np.zeros(8)
+    state[start] = 1.0
+    for _ in range(steps):
+        state = state @ P
+    return state[target]  # n 步后 target 的故障概率
+```
+
+#### 4. 干预效果评估
+
+改 P 矩阵中的某个元素 → 重新计算 π → 看 π 是否变小 → 量化"这次重构到底降低了多少系统熵"。
+
+### 使用流程
+
+```
+1. 初始化 P 为均匀矩阵（8×8, 每行=1/8）
+2. 每次部署时收集工具调用对 (caller, callee, success)
+3. 更新 P[i][j] = 加权滑动平均(改 i 后 j 的故障率)
+4. 计算 P² 发现间接耦合
+5. 解 π = π·P 得到稳态分布
+6. 如果 π 偏大模块出现预期外上升 → 报警
+```
+
+## 第五层：生克 → 依赖矩阵
+
+八卦的五行生克可以映射到模块依赖关系：
+
+| 五行关系 | 工程含义 | 示例 |
+|---------|---------|------|
+| **生（上游→下游）** | 数据流/调用链 | 需求生契约、架构生实现 |
+| **克（下游约束上游）** | 契约约束/格式要求 | 契约克架构、回归克部署 |
+| **反生** | 下游反馈驱动上游变更 | 部署反馈回需求 |
+| **反克** | 异常传播 | 风险反克实现 |
+
+### 依赖图构建方法
+
+1. 列出所有核心模块（乾→坤八阶段）
+2. 对每对模块，问"A 改了，B 要不要跟着改？"
+3. 标强度：无/低/中/高/门禁
+4. 把结果填入六十四卦矩阵
+5. 每次改动前查行（影响半径），出故障后查列（被影响负债）
+
+## 参考资源
+
+- `references/engineering-patterns.md`：工程方法的详细说明和应用示例
+- `references/hexagram-matrix.md`：六十四卦交互矩阵的完整说明、工具级矩阵模板、圈复杂度公式
