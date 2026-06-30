@@ -1,1 +1,180 @@
-IyDlt6XnqIvmlrnms5Xorrrlj4LogIMg4oCUIEFJIOaZuuiDveS9k+W8gOWPkeeahOeJqeeQhumalOemu+aJi+autQoKIyMg54q25oCB5py66K6+6K6h5qih5byPCgojIyMg5qC45b+D5oCd6LevCuWwhuaZuuiDveS9k+eahOW3peS9nOa1geehrOe8lueggeaIkOS4gOW8oOacieWQkeWbvu+8mgotICoq6IqC54K5KiogPSDlhbfkvZPliqjkvZzvvIjmj5Dlj5bmhI/lm77jgIHmn6XmlbDmja7lupPjgIHnlJ/miJDlm57lpI3vvIkKLSAqKui+uSoqID0g5p2h5Lu26L2s56e777yI5bel5YW36L+U5Zue56m64oaS6LWw6IqC54K5Qe+8m+i/lOWbnuaVsOaNruKGkui1sOiKgueCuULvvIkKCiMjIyBQeXRob24g56S65L6L77yI57K+566A54mI77yJCmBgYHB5dGhvbgpmcm9tIGVudW0gaW1wb3J0IEVudW0KZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gdHlwaW5nIGltcG9ydCBBbnksIE9wdGlvbmFsCgpjbGFzcyBTdGF0ZShFbnVtKToKICAgIEFOQUxZWkVfSU5QVVQgPSAiYW5hbHl6ZV9pbnB1dCIKICAgIENBTExfVE9PTCA9ICJjYWxsX3Rvb2wiCiAgICBSRUZMRUNUID0gInJlZmxlY3QiCiAgICBHRU5FUkFURSA9ICJnZW5lcmF0ZSIKICAgIEVSUk9SID0gImVycm9yIgogICAgRE9ORSA9ICJkb25lIgoKQGRhdGFjbGFzcwpjbGFzcyBUcmFuc2l0aW9uOgogICAgbmV4dF9zdGF0ZTogU3RhdGUKICAgIGFjdGlvbjogc3RyCgpjbGFzcyBBZ2VudEZTTToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLnN0YXRlID0gU3RhdGUuQU5BTFlaRV9JTlBVVAogICAgICAgIHNlbGYuZGF0YTogZGljdFtzdHIsIEFueV0gPSB7fQogICAgCiAgICBhc3luYyBkZWYgc3RlcChzZWxmKToKICAgICAgICBpZiBzZWxmLnN0YXRlID09IFN0YXRlLkFOQUxZWkVfSU5QVVQ6CiAgICAgICAgICAgICMg5o+Q5Y+W5oSP5Zu+CiAgICAgICAgICAgIHJlc3VsdCA9IGF3YWl0IGFuYWx5emVfdXNlcl9pbnB1dChzZWxmLmRhdGFbInVzZXJfbXNnIl0pCiAgICAgICAgICAgIHNlbGYuZGF0YVsiaW50ZW50Il0gPSByZXN1bHQKICAgICAgICAgICAgbmV4dF9zdGF0ZSA9IFN0YXRlLkNBTExfVE9PTCBpZiByZXN1bHQuZ2V0KCJuZWVkc190b29sIikgZWxzZSBTdGF0ZS5HRU5FUkFURQogICAgICAgICAgICByZXR1cm4gVHJhbnNpdGlvbihuZXh0X3N0YXRlLCAiYW5hbHl6ZWQiKQogICAgICAgIAogICAgICAgIGVsaWYgc2VsZi5zdGF0ZSA9PSBTdGF0ZS5DQUxMX1RPT0w6CiAgICAgICAgICAgIHJlc3VsdCA9IGF3YWl0IGV4ZWN1dGVfdG9vbChzZWxmLmRhdGFbImludGVudCJdWyJ0b29sIl0sIHNlbGYuZGF0YVsiaW50ZW50Il1bImFyZ3MiXSkKICAgICAgICAgICAgc2VsZi5kYXRhWyJ0b29sX3Jlc3VsdCJdID0gcmVzdWx0CiAgICAgICAgICAgIGlmIHJlc3VsdC5nZXQoInN1Y2Nlc3MiKToKICAgICAgICAgICAgICAgIHJldHVybiBUcmFuc2l0aW9uKFN0YXRlLkdFTkVSQVRFLCAidG9vbF9vayIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJhbnNpdGlvbihTdGF0ZS5FUlJPUiwgInRvb2xfZmFpbGVkIikKICAgICAgICAKICAgICAgICBlbGlmIHNlbGYuc3RhdGUgPT0gU3RhdGUuR0VORVJBVEU6CiAgICAgICAgICAgIHJlcGx5ID0gYXdhaXQgZ2VuZXJhdGVfcmVwbHkoc2VsZi5kYXRhKQogICAgICAgICAgICBzZWxmLmRhdGFbInJlcGx5Il0gPSByZXBseQogICAgICAgICAgICByZXR1cm4gVHJhbnNpdGlvbihTdGF0ZS5ET05FLCAiZ2VuZXJhdGVkIikKICAgICAgICAKICAgICAgICBlbGlmIHNlbGYuc3RhdGUgPT0gU3RhdGUuRVJST1I6CiAgICAgICAgICAgIHJlcGx5ID0gZiLpgYfliLDpl67popjvvJp7c2VsZi5kYXRhLmdldCgndG9vbF9yZXN1bHQnLCB7fSkuZ2V0KCdlcnJvcicsICfmnKrnn6XplJnor68nKX0iCiAgICAgICAgICAgIHNlbGYuZGF0YVsicmVwbHkiXSA9IHJlcGx5CiAgICAgICAgICAgIHJldHVybiBUcmFuc2l0aW9uKFN0YXRlLkRPTkUsICJlcnJvcl9oYW5kbGVkIikKYGBgCgojIyDlpZHnuqbpqbHliqjlvIDlj5EKCiMjIyBQeWRhbnRpYyBTY2hlbWEg56S65L6LCmBgYHB5dGhvbgpmcm9tIHB5ZGFudGljIGltcG9ydCBCYXNlTW9kZWwsIEZpZWxkCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbAoKY2xhc3MgVG9vbElucHV0KEJhc2VNb2RlbCk6CiAgICAiIiLmiYDmnInlt6XlhbfovpPlhaXnmoTln7rnsbsiIiIKICAgIHNlc3Npb246IHN0ciA9IEZpZWxkKGRlZmF1bHQ9ImRlZmF1bHQiLCBkZXNjcmlwdGlvbj0i5Lya6K+dSUQiKQoKY2xhc3MgV2ViU2VhcmNoSW5wdXQoVG9vbElucHV0KToKICAgIHF1ZXJ5OiBzdHIgPSBGaWVsZCguLi4sIG1pbl9sZW5ndGg9MSwgbWF4X2xlbmd0aD01MDApCiAgICBtYXhfcmVzdWx0czogaW50ID0gRmllbGQoZGVmYXVsdD01LCBnZT0xLCBsZT0yMCkKCmNsYXNzIFdlYlNlYXJjaE91dHB1dChCYXNlTW9kZWwpOgogICAgc3VjY2VzczogYm9vbAogICAgcmVzdWx0czogbGlzdFtkaWN0XSA9IEZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgZXJyb3I6IE9wdGlvbmFsW3N0cl0gPSBOb25lCiAgICB0b3RhbF9yZXN1bHRzOiBpbnQgPSBGaWVsZChkZWZhdWx0PTAsIGdlPTApCgojIOS9v+eUqOS+iwppbnB1dF9kYXRhID0gV2ViU2VhcmNoSW5wdXQocXVlcnk9IuS7iuWkqUFJ5paw6Ze7Iiwgc2Vzc2lvbj0idGVzdCIpCm91dHB1dF9kYXRhID0gV2ViU2VhcmNoT3V0cHV0KHN1Y2Nlc3M9VHJ1ZSwgcmVzdWx0cz1bXSwgdG90YWxfcmVzdWx0cz0wKQpgYGAKCiMjIyDkuLvlvqrnjq/kuK3nmoTlpZHnuqbmoKHpqowKYGBgcHl0aG9uCmFzeW5jIGRlZiBleGVjdXRlX3Rvb2xfc2FmZShuYW1lOiBzdHIsIGFyZ3M6IGRpY3QpIC0+IGRpY3Q6CiAgICAiIiLlronlhajmiafooYzlt6XlhbfvvIzluKYgc2NoZW1hIOagoemqjCIiIgogICAgdHJ5OgogICAgICAgICMg5p+l5om+5a+55bqU5bel5YW355qEIHNjaGVtYQogICAgICAgIHNjaGVtYSA9IFRPT0xfU0NIRU1BUy5nZXQobmFtZSkKICAgICAgICBpZiBzY2hlbWE6CiAgICAgICAgICAgIHZhbGlkYXRlZCA9IHNjaGVtYSgqKmFyZ3MpICAjIOiHquWKqOagoemqjAogICAgICAgICAgICBhcmdzID0gdmFsaWRhdGVkLm1vZGVsX2R1bXAoKQogICAgICAgIHJlc3VsdCA9IGF3YWl0IGV4ZWN1dGVfdG9vbChuYW1lLCBhcmdzKQogICAgICAgIHJldHVybiB7InN1Y2Nlc3MiOiBUcnVlLCAicmVzdWx0IjogcmVzdWx0fQogICAgZXhjZXB0IFZhbGlkYXRpb25FcnJvciBhcyBlOgogICAgICAgIHJldHVybiB7InN1Y2Nlc3MiOiBGYWxzZSwgImVycm9yIjogZiLlj4LmlbDmoKHpqozlpLHotKU6IHtlfSJ9CmBgYAoKIyMg5b6u5YaF5qC4ICsg5o+S5Lu25YyW5p625p6ECgojIyMg5YaF5qC46IGM6LSj77yI5Y+q5YGa5LiJ5Lu25LqL77yJCmBgYHB5dGhvbgpjbGFzcyBLZXJuZWw6CiAgICAiIiLmmbrog73kvZPlhoXmoLjvvJrmnoHnroDnqLPlrpoiIiIKICAgIAogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuc3RhdGUgPSB7fSAgICAgICMgMS4g57u05oqk5b2T5YmN54q25oCBCiAgICAgICAgc2VsZi5wbHVnaW5zID0ge30gICAgIyAyLiDms6jlhoznmoTmj5Lku7YKICAgICAgICBzZWxmLnNjaGVkdWxlciA9IFNjaGVkdWxlcigpICAjIDMuIOS7u+WKoeiwg+W6pgogICAgCiAgICBkZWYgcmVnaXN0ZXJfcGx1Z2luKHNlbGYsIG5hbWU6IHN0ciwgcGx1Z2luKToKICAgICAgICAiIiLms6jlhozmj5Lku7bvvIzkuI3kv67mlLnlhoXmoLjku6PnoIEiIiIKICAgICAgICBzZWxmLnBsdWdpbnNbbmFtZV0gPSBwbHVnaW4KICAgIAogICAgYXN5bmMgZGVmIHJvdXRlKHNlbGYsIGludGVudDogc3RyLCBhcmdzOiBkaWN0KToKICAgICAgICAiIiLot6/nlLHku7vliqHliLDlr7nlupTmj5Lku7YiIiIKICAgICAgICBwbHVnaW4gPSBzZWxmLnBsdWdpbnMuZ2V0KGludGVudCkKICAgICAgICBpZiBub3QgcGx1Z2luOgogICAgICAgICAgICByZXR1cm4geyJlcnJvciI6IGYi5pyq55+l5oSP5Zu+OiB7aW50ZW50fSJ9CiAgICAgICAgcmV0dXJuIGF3YWl0IHBsdWdpbi5leGVjdXRlKGFyZ3MpCmBgYAoKIyMjIOaPkuS7tuaOpeWPowpgYGBweXRob24KY2xhc3MgUGx1Z2luKEFCQyk6CiAgICAiIiLmiYDmnInmj5Lku7blv4Xpobvlrp7njrDnmoTmjqXlj6MiIiIKICAgIAogICAgQGFic3RyYWN0bWV0aG9kCiAgICBhc3luYyBkZWYgZXhlY3V0ZShzZWxmLCBhcmdzOiBkaWN0KSAtPiBkaWN0OgogICAgICAgIHBhc3MKICAgIAogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgZ2V0X3NjaGVtYShzZWxmKSAtPiB0eXBlW0Jhc2VNb2RlbF06CiAgICAgICAgIiIi6L+U5Zue6L6T5YWl5qCh6aqMIHNjaGVtYSIiIgogICAgICAgIHBhc3MKYGBgCgojIyBFdmFsIOm7hOmHkeaVsOaNrumbhgoKIyMjIOe7k+aehApgYGBweXRob24KRVZBTF9EQVRBU0VUID0gWwogICAgewogICAgICAgICJpbnB1dCI6ICLluK7miJHmn6XkuIDkuIvku4rlpKnnmoTlpKnmsJQiLAogICAgICAgICJleHBlY3RlZF9iZWhhdmlvciI6IFsic2hvdWxkX2NhbGxfdG9vbDpnZXRfd2VhdGhlciJdLAogICAgICAgICJleHBlY3RlZF9yZXNwb25zZV9jb250YWlucyI6IFsi5aSp5rCUIl0sCiAgICAgICAgInZhcmlhdGlvbnMiOiBbIuS7iuWkqeWkqeawlOaAjuS5iOagtyIsICLmn6XlpKnmsJQiLCAid2VhdGhlciB0b2RheSJdCiAgICB9LAogICAgewogICAgICAgICJpbnB1dCI6ICLlhpnkuIDkuKpQeXRob27lhpLms6HmjpLluo8iLAogICAgICAgICJleHBlY3RlZF9iZWhhdmlvciI6IFsic2hvdWxkX2dlbmVyYXRlX2NvZGUiXSwKICAgICAgICAiZXhwZWN0ZWRfcmVzcG9uc2VfY29udGFpbnMiOiBbImRlZiIsICJidWJibGVfc29ydCJdLAogICAgICAgICJjaGVja19ub3RfY29udGFpbnMiOiBbIuS7peS4i+aYr+S7o+eggSJdICAjIOmBv+WFjei/h+W6puaooeadv+WMluWbnuWkjQogICAgfSwKICAgICMgLi4uIOaMgee7reenr+e0r+WOhuWPsuWksei0pSBjYXNlCl0KYGBgCgojIyMg6Ieq5Yqo6LeRIEV2YWwKYGBgcHl0aG9uCmFzeW5jIGRlZiBydW5fZXZhbChtb2RlbCwgZGF0YXNldDogbGlzdCkgLT4gZGljdDoKICAgICIiIuWvueavj+S4qiBjYXNlIOaJk+WIhu+8jOaxh+aAu+WHhuehrueOhyIiIgogICAgc2NvcmVzID0gW10KICAgIGZvciBjYXNlIGluIGRhdGFzZXQ6CiAgICAgICAgcmVzcG9uc2UgPSBhd2FpdCBtb2RlbChjYXNlWyJpbnB1dCJdKQogICAgICAgIHNjb3JlID0gZXZhbHVhdGVfcmVzcG9uc2UocmVzcG9uc2UsIGNhc2UpCiAgICAgICAgc2NvcmVzLmFwcGVuZChzY29yZSkKICAgIAogICAgYWNjdXJhY3kgPSBzdW0oc2NvcmVzKSAvIGxlbihzY29yZXMpCiAgICByZXR1cm4gewogICAgICAgICJhY2N1cmFjeSI6IGFjY3VyYWN5LAogICAgICAgICJ0b3RhbCI6IGxlbihzY29yZXMpLAogICAgICAgICJwYXNzZWQiOiBzdW0oc2NvcmVzKSwKICAgICAgICAiZmFpbGVkIjogbGVuKHNjb3JlcykgLSBzdW0oc2NvcmVzKSwKICAgIH0KYGBgCg==
+# 工程方法论参考 — AI 智能体开发的物理隔离手段
+
+## 状态机设计模式
+
+### 核心思路
+将智能体的工作流硬编码成一张有向图：
+- **节点** = 具体动作（提取意图、查数据库、生成回复）
+- **边** = 条件转移（工具返回空→走节点A；返回数据→走节点B）
+
+### Python 示例（精简版）
+```python
+from enum import Enum
+from dataclasses import dataclass
+from typing import Any, Optional
+
+class State(Enum):
+    ANALYZE_INPUT = "analyze_input"
+    CALL_TOOL = "call_tool"
+    REFLECT = "reflect"
+    GENERATE = "generate"
+    ERROR = "error"
+    DONE = "done"
+
+@dataclass
+class Transition:
+    next_state: State
+    action: str
+
+class AgentFSM:
+    def __init__(self):
+        self.state = State.ANALYZE_INPUT
+        self.data: dict[str, Any] = {}
+    
+    async def step(self):
+        if self.state == State.ANALYZE_INPUT:
+            # 提取意图
+            result = await analyze_user_input(self.data["user_msg"])
+            self.data["intent"] = result
+            next_state = State.CALL_TOOL if result.get("needs_tool") else State.GENERATE
+            return Transition(next_state, "analyzed")
+        
+        elif self.state == State.CALL_TOOL:
+            result = await execute_tool(self.data["intent"]["tool"], self.data["intent"]["args"])
+            self.data["tool_result"] = result
+            if result.get("success"):
+                return Transition(State.GENERATE, "tool_ok")
+            else:
+                return Transition(State.ERROR, "tool_failed")
+        
+        elif self.state == State.GENERATE:
+            reply = await generate_reply(self.data)
+            self.data["reply"] = reply
+            return Transition(State.DONE, "generated")
+        
+        elif self.state == State.ERROR:
+            reply = f"遇到问题：{self.data.get('tool_result', {}).get('error', '未知错误')}"
+            self.data["reply"] = reply
+            return Transition(State.DONE, "error_handled")
+```
+
+## 契约驱动开发
+
+### Pydantic Schema 示例
+```python
+from pydantic import BaseModel, Field
+from typing import Optional
+
+class ToolInput(BaseModel):
+    """所有工具输入的基类"""
+    session: str = Field(default="default", description="会话ID")
+
+class WebSearchInput(ToolInput):
+    query: str = Field(..., min_length=1, max_length=500)
+    max_results: int = Field(default=5, ge=1, le=20)
+
+class WebSearchOutput(BaseModel):
+    success: bool
+    results: list[dict] = Field(default_factory=list)
+    error: Optional[str] = None
+    total_results: int = Field(default=0, ge=0)
+
+# 使用例
+input_data = WebSearchInput(query="今天AI新闻", session="test")
+output_data = WebSearchOutput(success=True, results=[], total_results=0)
+```
+
+### 主循环中的契约校验
+```python
+async def execute_tool_safe(name: str, args: dict) -> dict:
+    """安全执行工具，带 schema 校验"""
+    try:
+        # 查找对应工具的 schema
+        schema = TOOL_SCHEMAS.get(name)
+        if schema:
+            validated = schema(**args)  # 自动校验
+            args = validated.model_dump()
+        result = await execute_tool(name, args)
+        return {"success": True, "result": result}
+    except ValidationError as e:
+        return {"success": False, "error": f"参数校验失败: {e}"}
+```
+
+## 微内核 + 插件化架构
+
+### 内核职责（只做三件事）
+```python
+class Kernel:
+    """智能体内核：极简稳定"""
+    
+    def __init__(self):
+        self.state = {}      # 1. 维护当前状态
+        self.plugins = {}    # 2. 注册的插件
+        self.scheduler = Scheduler()  # 3. 任务调度
+    
+    def register_plugin(self, name: str, plugin):
+        """注册插件，不修改内核代码"""
+        self.plugins[name] = plugin
+    
+    async def route(self, intent: str, args: dict):
+        """路由任务到对应插件"""
+        plugin = self.plugins.get(intent)
+        if not plugin:
+            return {"error": f"未知意图: {intent}"}
+        return await plugin.execute(args)
+```
+
+### 插件接口
+```python
+class Plugin(ABC):
+    """所有插件必须实现的接口"""
+    
+    @abstractmethod
+    async def execute(self, args: dict) -> dict:
+        pass
+    
+    @abstractmethod
+    def get_schema(self) -> type[BaseModel]:
+        """返回输入校验 schema"""
+        pass
+```
+
+## Eval 黄金数据集
+
+### 结构
+```python
+EVAL_DATASET = [
+    {
+        "input": "帮我查一下今天的天气",
+        "expected_behavior": ["should_call_tool:get_weather"],
+        "expected_response_contains": ["天气"],
+        "variations": ["今天天气怎么样", "查天气", "weather today"]
+    },
+    {
+        "input": "写一个Python冒泡排序",
+        "expected_behavior": ["should_generate_code"],
+        "expected_response_contains": ["def", "bubble_sort"],
+        "check_not_contains": ["以下是代码"]  # 避免过度模板化回复
+    },
+    # ... 持续积累历史失败 case
+]
+```
+
+### 自动跑 Eval
+```python
+async def run_eval(model, dataset: list) -> dict:
+    """对每个 case 打分，汇总准确率"""
+    scores = []
+    for case in dataset:
+        response = await model(case["input"])
+        score = evaluate_response(response, case)
+        scores.append(score)
+    
+    accuracy = sum(scores) / len(scores)
+    return {
+        "accuracy": accuracy,
+        "total": len(scores),
+        "passed": sum(scores),
+        "failed": len(scores) - sum(scores),
+    }
+```
